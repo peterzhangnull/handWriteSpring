@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+.idea
+*.iml
+*/target
+*target
+*.DS_Store
